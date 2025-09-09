@@ -12,7 +12,7 @@
 - **Other:** AJAX, APIs  
 
 ### 🌐 Portfolio
-👉 [View my portfolio](https://ashickalone.github.io)
+👉 [View my portfolio](https://ashickalone.github.io/ashickalone)
 ![Ashick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashickalone&show_icons=true&theme=tokyonight)
 
 
